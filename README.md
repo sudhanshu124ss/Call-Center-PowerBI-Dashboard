@@ -1,6 +1,6 @@
 # Call Center Performance Dashboard
 
-This Power BI dashboard analyzes 500+ call records.
+This Power BI dashboard analyzes 99 call records.
 
 ## KPIs Included:
 - Total Calls
